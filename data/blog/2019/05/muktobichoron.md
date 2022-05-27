@@ -1,0 +1,192 @@
+---
+title: "মুক্ত বিচরণ"
+date: "2019-05-13"
+categories: 
+  - "blog"
+  - "venge-felo-karagar"
+tags: 
+  - "বিষে-বিষক্ষয়"
+  - "ভেঙ্গে-ফেলো-এই-কারাগার"
+---
+
+পর্ন আসক্তি ছাড়ার জন্য পর্ন ওয়েব সাইট ব্লক করার সফটওয়্যার বা অ্যাপ্স ইনস্টল করা খুবই জরুরী। “পর্ন দেখতে মন চাইলো, হাতের মুঠোয় হাইস্পিড ইন্টারনেট, দুটো ক্লিক, তারপর পর্ন মুভির বিশাল ভান্ডার”, এরকম অবস্থায় থাকলে পর্ন আসক্তি থেকে বের হয়ে আসা দুঃসাধ্য। এই লেখায় আপনি অনলাইনের ফিতনা মোকাবেলার কিছু রসদ পেয়ে যাবেন ইনশা আল্লাহ্‌।
+
+### .
+
+## **নজর হিফাজতের প্রথম ধাপঃ পর্নসাইটে প্রবেশের পথ রুদ্ধকরণ**
+
+## .
+
+### **১. Router থেকে যেভাবে বন্ধ করবেন পর্ন সাইটঃ**
+
+.
+
+যাদের জন্য উপযোগী - ব্রডব্যান্ড ইউজার যারা রাউটারের মাধ্যমে ডিভাইসে (PC, Tab, Mobile) ইন্টারনেট এক্সেস করেন।
+
+সমাধান\- [CleanBrowsing DNS](https://cleanbrowsing.org) 
+
+.
+
+এই পদ্ধতি আমি দেখাচ্ছি tplink রাউটারের ক্ষেত্রে, তবে প্রায় সব রাউটারে এই অপশনগুলো আছে জাস্ট আপনাকে খুজে নিতে হবে। [প্রয়োজন হলে তাদের ইন্সট্রাকশন পড়ে নিন](https://cleanbrowsing.org/guides/)।
+
+প্রথমে আপনি আপনার রাউটারে লগিন করুন। tplink রাউটারের জন্যে এই লিংক ইউজ করুন। [http://tplinkwifi.net/](http://tplinkwifi.net/) বা [http://192.168.0.1/](http://192.168.0.1/) , এরপর আইডি পাসওয়ার্ড দিয়ে লগিন করুন। এক্সেস করার পর হাতের বামে দেখুন DHCP নামে একটি option আছে ক্লিক করুন। এরপর দেখুন নিচে দুইটা অপশন আছে-
+
+.
+
+১। DNS Server
+
+২। Secondary DNS Server
+
+.
+
+ওখানে নিচের দেয়া দুইটা ডিএনএস সার্ভার কপি-পেস্ট করে বসিয়ে দিন।
+
+DNS Server: **185.228.168.168** Secondary DNS Server: **185.228.169.168**
+
+.
+
+Save করুন। তারপর আবার হাতের বামে system tools নামে একটি option আছে ওটাতে ক্লিক করুন। দেখুন reboot নামে অপশন আছে ওটাতে ক্লিক করুন। এতক্ষণ রাউটারে যে প্রসেসসগুলো করলাম তা ঠিক মত যেন কাজ করে তাই রিবুট দিন। একটু সময় নিবে।
+
+এরপর থেকে আপনার রাউটার থেকে কেউ পর্ন সাইটে প্রবেশ করতে পারবে না। এমনকি আপনিও।
+
+![](images/tplink.jpg)
+
+**এতটুকু করলে আর আপনাকে কষ্ট করে গুগলে বা ইউটিউবেও Safe Search অপশন অন করা লাগবে না, বাই ডিফল্ট অন থাকবে। আর** **মোবাইলেও আলাদা করে কোন পর্ন ব্লকার/ DNS এড্রেস ইউজ করা লাগবে না। (যতক্ষণ আপনি কনফিগারড রাউটারের আওতায় নেট ইউজ করছেন আপনার মোবাইলে)**
+
+.
+
+### **২. যারা সরাসরি Windows এ ইথারনেট ক্যাবল কানেক্ট করেনঃ**
+
+Windows Network সেটিং থেকে DNS এড্রেস চেইঞ্জ করে নিন।
+
+![](images/dns1-1.jpg)
+
+![](images/dns2.jpg)
+
+![](images/dns3.jpg)
+
+##### .
+
+### **৩. অপারেটর এর ডেটা ইউজ করে মোবাইলে ইন্টারনেট ব্যবহার করলেঃ**
+
+##### .
+
+##### Android এর ক্ষেত্রে, Spin Browser + AppLock এর সমন্বয়।
+
+এটি আমাদের পছন্দের পদ্ধতি। বেশ কার্যকরী। প্রয়োজনীয় এই অ্যাপ্সগুলো নামিয়ে নিন,
+
+[Spin Browser](https://play.google.com/store/apps/details?id=com.nationaledtech.spinbrowser&hl=en) App Lock – [https://tinyurl.com/k5zk2zr](https://tinyurl.com/k5zk2zr)
+
+ভিডিও টিউটোরিয়াল-   [http://bit.ly/2FlCLcI](https://bit.ly/2FlCLcI)
+
+উল্লেখ্য,
+
+১। Message (Default Application যেটা) লক করার দরকার নেই। Spin Browser বাদে বাকি সব ব্রাউজার আর ব্রাউজার নামানোর মাধ্যম (Bluetooth, Sharing Apps, Google Play, Google Drive etc.) বন্ধ করবেন। ২। যেহেতু Google Play লক রাখতে হবে, এখন যদি কখনো কোন এপ্লিকেশন নামানোর প্রয়োজন হয়, যার মাধ্যমে লক করিয়েছেন উনাকে দিয়ে আনলক করিয়ে নামিয়ে নিবেন। ৩। টিউটোরিয়ালে দেখানো Advanced Protection অপশনটা পাবেন App Lock এ  Protect > General মেন্যুতে। ৪। পাশাপাশি আরেকটা অপশন অন করতে পারেন Protect > General > Hide AppLock
+
+**\*\* রাউটার এর পাসওয়ার্ড ও App Lock এর প্যাটার্ন আপনি নিজে জানলে এতকিছু করে লাভ হবে না, তীব্র আকাঙ্ক্ষার মুহূর্তে সব Uninstall করে বসবেন। তাই পর্ন ব্লকের ক্ষেত্রে যা যা বলা হল সেগুলো এমন কাউকে দিয়ে করাবেন যিনি আপনাকে কখনো আনলক করার সুযোগ দিবেন না।** 
+
+Spin Browser এর বদলে SalamWeb Browser অনেকে সাজেস্ট করেছেন, এটাও ভালো। আমরা দুটোই চালিয়ে দেখেছি, এডাল্ট ফিল্টারিং এর ক্ষেত্রে স্পিন ব্রাউজার তুলনামূলক স্ট্রিক্ট- এমনটাই মনে হয়েছে।
+
+\----------
+
+## **নজর হিফাজতের দ্বিতীয় ধাপঃ Ad Block, Image Block, Youtube Suggestion এর ফিতনা এড়িয়ে চলা**
+
+### .
+
+তথ্যপ্রযুক্তির এই যুগে ইন্টারনেট ইউজ করে না এমন লোক খুঁজে পাওয়া ভার। এই ইন্টারনেটের যেমন সুযোগ সুবিধা আছে, ঠিক তেমনি ভাবে এর অপকারিতার লিষ্টও বেশ লম্বা। দৈনন্দিন নানা কাজে আমাদের ইন্টারনেট ইউজ করতে হয়। যারা নিয়মিত ইন্টারনেট ইউজ করি, তারা খুব ভালো মতই জানি যে বিভিন্ন ওয়েবসাইট ব্রাউজ করার ফলে, আমরা বিভিন্ন ধরনের বিজ্ঞাপন দেখতে পাই। এই বিজ্ঞাপন যেমন বিভিন্ন প্রোডাক্টের হয়ে থাকে ঠিক একে ঘিরে রয়েছে অশ্লীলতাও। বিজ্ঞাপনে এখন অর্ধ-নগ্ন নারী থাকা যেন স্বাভাবিকে পরিনত হয়েছে। আসলে এ বিজ্ঞাপনের ফাঁকে ফাঁকে আমাদের কাছে চলে আসে অপ্রত্যাশিত কিছু, বিভিন্ন পর্ন সাইট। যেমন আপনি নেট ব্রাউজ করতে করতে হঠাৎ খেয়াল করলেন থ্রি ডি গেমস, ক্লিক করার সাথে সাথে আপনাকে নিয়ে চলে যাবে গেমসের পর্নোগ্রাফির ওয়ার্ল্ডে। এছাড়াও বিভিন্ন সাইটে ব্রাউজ করার সময় বিরক্তিকর বিজ্ঞাপন দেখতে পাই। এর থেকে বাচার উপায় কি? আর এই চরম বিরক্তিকর বিজ্ঞাপন থেকে আমরা কিভাবে শান্তি মত ব্রাউজ করতে পারি তার কয়েকটি টেকনিক আজকে আমি আপনাদের সাথে শেয়ার করবো।
+
+.
+
+### Windows এর ক্ষেত্রেঃ
+
+১. [Vivaldi ব্রাউজার](https://vivaldi.com/) ব্যবহার করুন। বাই ডিফল্ট এড ব্লক করে। অথবা, অন্য কোন ব্রাউজারে Adblock plus/ ublock origin এক্সটেনশন নামিয়ে ইউজ করতে পারেন।
+
+নামানোর লিঙ্কঃ
+
+Adblock Plus: Google Chrome/ Chromium-based Browser এর জন্য- [https://tinyurl.com/y3kkcso6](https://tinyurl.com/y3kkcso6?fbclid=IwAR1b4Bprcd-F6Xy8Klskn6wRCgAlsxHaiIecJ1YEnzLLMpcb2dCgZ88E9iE), Firefox এর জন্য- [https://tinyurl.com/7pbt6uu](https://tinyurl.com/7pbt6uu?fbclid=IwAR1sld9cX31X_yInLbRvGNNyp7iddpHLyz06r6fEEtyt7cqBKQYsUT5Yfao)
+
+ublock origin: [https://tinyurl.com/mg6fabu](https://tinyurl.com/mg6fabu?fbclid=IwAR0HDOLhpKQkiAykXck8D82PpR_L7XNhdYzR6eg6TuzUH5HqWCnzDg3EB_M) (Chrome), [https://tinyurl.com/pcsq2p8](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Fpcsq2p8%3Ffbclid%3DIwAR2jaNJmOO_bvM_iWwHKzACGGnfqt920LcAbr8RqIsA4j5I-Kwh6NaoWaMA&h=AT2lAGrIzEW8lLkiCL9sz0klHbrXx1Acr6KlPxbg7D9y1wL53NWssxtD8tvs5NLOYLpuXewBdpuPY2PI63hVKPUC1G-DaF6-HiYg_DDYGhfv35f_6OxmN8gd6IvCYsgXAEBlpSNVE95qUKa-zDpBUT_ii0EA9BbdLEsP6IYRAlCBOmE8eQMc7SXJGIHQpzqZdM9KYzZYeaXWyOjvFBejX-CWQkzuLNw0Azv5NsdU8he41qE_GGvA7P-SERRmFfUMCkU0m6ObaNRbTOnOmFvFdW6BUosTOtCLpSdxmE-yivSt4DH5sYTRu-tLxClKRAHAfGOIsyhXCtalmtxRUJVJsHkxSepOgrH5OnD4S6d_mCgue761YLSVrIXbROf-HNsF34e7BtAUrrV1X3EOWgbzSUoLVAfJQ45OsGGn8cdrAh6prmR464sVE3fOgYb3gMvfs9zZTfDKyoIyyp_e3sd1cmgRka7Ie4L2g9hFAcchDOg5oTXcdLoyGrtrwr1kj59jwCb4ksbsh0nz891usg-fbzsnVMGn0ftkk6CJJdFQ_mea-JU2-duFJPqYE8NzTYE5Kgl4IbpMdxVWfC3awE2Etywu1HRUry3nFD2QNEReNlYc_fkEOe7nuG4gQZv0zIukkKjKOp3I) (Firefox)
+
+.
+
+**২. ফেসবুক এর sponsored ad, friends you may know, page/group suggestion এই ট্যাবগুলো যথেষ্ট ফিতনাময় ও অনেকাংশে অশ্লীলও বটে । এক্ষেত্রে আমরা সাজেস্ট করি [fb purity এক্সটেনশন](https://www.fbpurity.com/)টি**। খুবই চমৎকার, ইচ্ছামত কাস্টোমাইজ করে নেয়া যায় হোমপেজ।
+
+৩. যেকোনো সাইটে ইমেজ/ ভিডিও ব্লক করতে চাইলে ব্যবহার করুন এই এক্সটেনশন- [https://tinyurl.com/yc8sjbg2](https://tinyurl.com/yc8sjbg2?fbclid=IwAR3pFlxi5yerUGm9BbsnVFdtz_SvM1Xz4bzHecu1VAOS4eLyHVqzd7PYKLU) (Chrome based browsers) [https://tinyurl.com/y7u77sls](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Fy7u77sls%3Ffbclid%3DIwAR2z6ONV5AdL_iE5FO7nBFanqYJv9md4riC8qLHweDSfFtUGmFDo0G8HU-A&h=AT1uOeI55VTTMer8lJ8ULXNuJd8h9f8GOrxbkChb6cDjvY9AtkTcnnOfhxk0_xtNlIeNPzaNXHBVlDpA92fNW9mgkytLRXgKNNobxhR8QgKb0dPfW6DvO_02ofERZmRnqtXUQTUcm45pCHyT77aW4WGtnX4SqW5FOfLlKo61jNgAhMR9SWdA-XPAsx7yp7h3A0nI77Fjm7xb4jWsmu9Xc2AFQYlUkwYrATuOzl0ykEyXYN6PnyMbBHbQWdvH8yDtTzlnh2hxhG_RHHXdA5MpgLF4cOkxXyOQ-eyyEVcwOTjf1jm2iEXpyLpWLHLnhfnhqVfUnPiOY5tR5hg98LcxUvE-xrxSPlHqQYrVaNt2SK9LpdSVKs9B9enLthiPShDP6iRjpTow_XUVriAawENiip-PrNa-L0ydFWIrVqnWCHvsEq1aLzbq8DIrbRyEIrm4EYmAA9FBq5zh0qvGkckhfv6V0M3ZPmw0oV3GOvr00QeBzv1XlYnNACDep7UsXRmEbgzTOysXa_rspwXvnGf2vu0KPTJVBAky78DUI8BTXK9lJTCA_ptAdyC6dlM2mmiqfor59AUXMD1-Fvnvac3yyZqZ57JFHqlbWvcydBOZyzP8hNuOazSGYK8fg_7EWXJhE-2HRntD) (Firefox) . এতে যেটা সুবিধা হবে তা হল, আপনি শুরুতেই ইমেজ/ ভিডিও ব্লক রেখে বিভিন্ন সাইটে গিয়ে প্রয়োজনীয় তথ্য পড়ে নিতে পারছেন। আর কোন গুরুত্বপূর্ণ ছবি বা ভিডিও পরবর্তীতে দেখার দরকার হলে আনব্লক করার অপশন তো থাকছেই। . ৪. Youtube এ প্রয়োজনীয় কোনো ভিডিও দেখার সময় সাইডবার সাজেশনে প্রায় বেপর্দা মেয়েদের আনাগোনা দেখা যায়। এর সমাধান অনেকভাবে হতে পারে (পড়ুন- [বিষে বিষক্ষয়](https://bit.ly/2OjUQwD))। সবচেয়ে নিরাপদ উপায় হচ্ছে, আপনি যে ভিডিওটা দেখতে ইউটিউবে গিয়েছেন সেটার url কপি করে [http://www.viewpure.com](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.viewpure.com%2F%3Ffbclid%3DIwAR3t9cnMSi6B45HDFVKP48Ca0pUuc6U9eNeXF0RGmyX5XPSPsCs69FfXRyI&h=AT3sMFR1EaGTs-UNYCI3u8iHTVi7hH9GopsfZSt_iTkzp-1foIOp-geR4xUtylqm7KPaVXhbV2Ort1DMSboEZ1bbV0GQ8rKRaWOOJld0pwBpRiRiyZ0hPbqcUgage3pVuIbJuPlGGekq_79dovTZF5I_kTmsPWTfsvDUgWIVul6k9AAnDhoBonVQK0d-HXgHvHemGfHKMnoDR37w39Ot8KVxKqA7I0wjoR4O0Vgf4-VlNqXy1MO88GBZRKObxgliIoqpgTW5eIDqIrcHXKZ-PqYyb-z6E_17osbM0DB5Sgpj_qcSG10YwFsUhsUBliA-a722xbVuyVKBNPdvL0TgrSL_o0uluS724aBJ5ek-iElG0d40lLFCY14TUkpZqBcHAKOgOpdWAgSFH2VBdIcUNIPhPMqcW1DO-e26w-Dt9UnyooRm3Pfns8Cqk3KqQofeSuPjDTmtW9oYQGDAmsXcB741ZUfBWp79p3fQzuTBz3uOpRpOE7NRoaFkUAtwar3qTdkUVpcN-tYU-dHZzzu6ZFtUkHPNbWfPP3YAycqxi6RRSr-7Sl3K6fxBt1s5J7m1JRWp2Tu2iuGK4csSA8BAHCLwobzXs6lJtMan2h2HmWW16xntc3htfztdcs1JlH46yrrHdOxFkMHElXQ) সাইটে গিয়ে বসিয়ে দিন। এবার viewpure এ শান্তিমত দেখুন ![](images/1f642.png)
+
+.
+
+### Android এর ক্ষেত্রেঃ
+
+১. AdGuard Premium এপ নামিয়ে ইন্সটল করে শুধু অন করে দিন। কাজ শেষ। মোবাইলে যত এপ আছে সবগুলোর এড ব্লক করে দিবে (১০০% কার্যকর কিনা জানিনা, তবে যতটুকু দেখেছি কাজ করেছে)। ডাউনলোড লিংক- [https://tinyurl.com/Adguard3514](https://tinyurl.com/Adguard3514?fbclid=IwAR2UM1fgukM33couGAatFaL1qydc2Ue97K2gpViHBnC-jASbqyRmftxr5hE) . ২. ইমেজ ব্লক রাখার জন্য আপনার আলাদা কিছু নামানো লাগবে না, Spin Browser থেকেই ব্লক রাখতে পারবেন। Spin Browser > Settings > Advanced > Show Images > Blocked . Facebook এপ দিয়ে চালাবেন না, স্পিন ব্রাউজার থেকে চালান ইমেজ ব্লক রেখে। নজরের হিফাজত করুন, অযথা ট্রিগার বা হতাশা থেকে বেঁচে যাবেন, ইনশাআল্লাহ। . ৩. Youtuze এপ দিয়ে ইউটিউবের ভিডিও দেখুন। এতে সুবিধা হল আপনি যেসব চ্যানেল সাবস্ক্রাইব করে রাখবেন শুধু সেগুলোর ভিডিও দেখতে পারবেন। অন্য আজেবাজে ভিডিও সাজেশন হিসেবে আসবে না। . নামানোর লিংক: [https://tinyurl.com/yacqurj4](https://l.facebook.com/l.php?u=https%3A%2F%2Ftinyurl.com%2Fyacqurj4%3Ffbclid%3DIwAR3EyGoCgdR9rySmwaNXtngBWMWKOHWrf_A4ZkhcjHL0eVHVki5QGW1BVrs&h=AT396mgMhqbBTcgY66FxV6WBBOvLuiny6k3P3NhTHRNIP9prOcN1xm6PBuh2Rj136RFFxyGpYuYy1pU6-Z--tqG83Rgv5MPSDgRKkhGaH2fXJkAMP7jxbbtY52xOinJd4yRqlI-VJApWqW1Nm7NFAgTJ-owqlZFpbxpfeG3BzOkoIYjL6NZIQ74IQrgaPupxHHsEBi49TsD7CeEv39Y_uns4KDEfuzTW6WtvBQDD60O4L7lsj-WoTfZUiaxV1-fdQWSv4yvXBUj2Abietc1BbRHLwskYP1Ke7z1le8_PHnP_jiFlo1e6XB40aQH0mksIDgM1U9BIUnASwbLXxSmHEUsa37OAsiqlmEuBjdrvuMZcvJnAMUenMbxEkKNL_f2D3mYf_MDQpCXJT16qrs4Km3RUAvBbOHOphcwR7Feoe-2F8BUBnNuZhBLD-3pfMFF1Zd8wBySxPP0J2uXFfO3FfFHEY3jsU1aBlwrLMvKYrMLo3YcD1GMki7ovFNWQCWX2WAGWDBvUrkciC6hnZpxNJcgtq3eau6SVsGqYfzKB-ZuSXLg5oI-TG5w-JpK7Y8NuBu6aCX90DhDXV8OqAWp6w4liBfWvT8HS5dOwk5elMGIjDsahtOE8nK3SYl0-hGiQFaRO1gq-) Youtuze নিয়ে টিউটোরিয়াল- [https://youtu.be/UQppGCj1pW8](https://youtu.be/UQppGCj1pW8) AppLock দিয়ে লক রাখার পদ্ধতি- [https://youtu.be/xr8muloSRec](https://youtu.be/xr8muloSRec) . ৪. আমাদের শুভাকাঙ্ক্ষী ভাইদের শেয়ার করা কিছু ANDROID APP যা আপনাকে পর্ন দেখা/ ব্রাউজিং এর নেশা থেকে দূরে থাকতে সাহায্য করবে ইনশাআল্লাহ-
+
+[Keep Me Out](https://tinyurl.com/ycqcspts)– এই অ্যাপটির কাজ হলো ফোন লক করে ফেলা। অ্যাপটি ওপেন করলে ‘Lock for \_\_\_ minutes/Hours’ বলে একটা অপশন আসবে, সেখান থেকে আপনি যেই সময়টুকু নির্ধারণ করবেন ততক্ষণের জন্য ফোন লক হয়ে যাবে। আপনি শতচেষ্টা করলেও ফোনটি আর চালাতে পারবেন না। তো? এটা পর্নোগ্রাফি থেকে মুক্তি পেতে কীভাবে সহয়তা করবে? . আপনাকে খুব ভেবেচিন্তে ওই সময়টা খুঁজে বের করতে হবে যখন আপনি পর্ন দেখেন, অধিকাংশ মানুষই গভীর রাতে পর্ন দেখতে পছন্দ করে থাকে। এক্ষেত্রে করণীয় হলো; রাত ১১ টা বাজার সাথে সাথে এই অ্যাপের সাহায্যে সকাল ৮টা পর্যন্ত মোবাইল লক করে ফেলা। বা আপনি যখন পর্ন দেখেন ওই সময়ের আরো আগেই এই অ্যাপের সাহায্যে মোবাইলকে লক করে ফেলা, এবং কমপক্ষে ১ ঘন্টার জন্য লক করে রাখা। ততক্ষণে পর্নের আসক্তি চলে গেলে তারপর মোবাইল ইউজ করা। আশা করি বোঝাতে পেরেছি। একটু ট্রাই করে দেখুন, ইনশাআল্লাহ সফল হবেন।
+
+পর্ন আসক্তদের রাতে মোবাইল না চালানোটাই উত্তম, তাই ১১-৮ টা পর্যন্ত মোবালটি লক করেই রাখুন। অ্যাপটিতে 'শিডিউল' এর সিস্টেম আছে। সেখান থেকে রাত ১১টা AM থেকে ৮টা AM পর্যন্ত মোবাইল লক করার শিডিউল দিয়ে দিন। এছাড়াও যখনই একটু মন চাইবে সঙ্গে সঙ্গে ১ ঘন্টার জন্য লক করে ফেলুন। আল্লাহ সকলকে সফলতা দান করুন। Play store link-
+
+এমন আরেকটা এপ [Lock My Phone](https://play.google.com/store/apps/details?id=tomka.lockmyphone&fbclid=IwAR26_OEcwrEighbD1oQQLS682y9FtrT_mgPt6pTw0XABd1F4tV0ohXVy44M)। উপরেরটা ভালো কাজ না করলে এটাও ব্যবহার করে দেখতে পারেন। আরও কিছু সাজেশনঃ Your Hour, Forest: Stay Focused...
+
+.
+
+### Summary:
+
+.
+
+##### আমি Windows ইউজার-
+
+● Router/Network Configuration: CleanBrowsing DNS ● Browser: Vivaldi ● Extension: FB Purity, Image Hider ● Youtube Alternative: viewpure
+
+##### আমি Android ইউজার-
+
+● Router Configuration: CleanBrowsing DNS (WiFi users only) ● Spin Browser (recommended for WiFi users, mandatory for operator data users) ● AppLock (Operator Data ইউজ করে নেট চালানোর ক্ষেত্রে AppLock + Spin Browser ছাড়া প্রটেকশন পাবেন না।) ● Youtube Alternative: Youtuze ● Adblock: AdGuard Premium
+
+### \----------
+
+## For iOS devices
+
+\- Safari তে Ad block করার জন্য এই এপটি ইউজ করতে পারেন। এটি এডাল্ট সাইটও ব্লক করে। এপটি ওপেন করে Block ads, protect privacy, block adult sites অপশনগুলো ON করে দিন।
+
+লিংকঃ [https://tinyurl.com/yyryrttv](https://tinyurl.com/yyryrttv)
+
+\- নানা কাজের জন্যে আমরা নানান এপ ইউজ করে থাকি। এর সিংহভাগ এপেই আছে বিজ্ঞাপন। তাই এর থেকে উত্তরনের উপায় হল Luna app ইউজ করা। বেশ কাজের।
+
+লিংকঃ [https://tinyurl.com/y3vkq7yp](https://tinyurl.com/y3vkq7yp)
+
+.
+
+WiFi কে রাখুন অশ্লীলতা মুক্ত (iOS ডিভাইসের জন্যে):
+
+প্রথমে setting এ যান তারপর পরপর wi-fi তে গিয়ে ওয়াইফাই কানেক্ট করুন। এর পর পাশে i (আই) চিহ্নতে ক্লিক করুন। একটু নিচে গিয়ে দেখুন লেখা আছে Configure DNS ওটাতে ক্লিক করুন।Manual সিলেক্ট করে দিন। এরপর add server অপশনে গিয়ে নিচের দুইটা সার্ভার এড্রেস বসিয়ে দিন।
+
+185.228.168.168 185.228.169.168
+
+চাইলে অন্য DNS সার্ভারও বসাতে পারেন। আমার মতে এই সার্ভারটা বেশ ভাল এডাল্ট কন্টেন্ট ব্লক করার জন্য। আরো একটি পদ্ধতি এপ্লাই করতে পারেন limit adult content যেটা ios devices গুলোতে ডিফল্টই থাকে। কিভাবে করবেন তার লিংক নিচে দেয়া হল।
+
+[https://tinyurl.com/y3cp2zun](https://tinyurl.com/y3cp2zun)
+
+### \----------
+
+## **Sharing is Caring:**
+
+দৈনন্দিন আমরা একজন অন্যের কাছ থেকে বিভিন্ন ফাইল, ডকুমেন্ট আদান প্রদান করে থাকি। আর এর জন্যে আমরা ডিপেন্ড করি ShareIt নামক এপ উপর। কিন্তু এই শেয়ার ইট এ মুভি/ নাটক/ গান সাজেস্ট করে, বেপর্দা মেয়েদের বাজার যেন! এক্ষেত্রে ShareIt এর [অ্যাড ফ্রি মড ভার্সনটি](http://www.adsfreeshareit.epizy.com/) / ShareIt lite ব্যবহার করতে পারেন। এছাড়া ShareIt মুছে ফেলে [**ShareMe**](https://tinyurl.com/y5v5m2ze) ইউজ করতে পারি। কোন এড নেই আর স্পিড বেশ ভাল। কোন অংশেই শেয়ার ইট থেকে কম নয়।
+
+.
+
+অনেকেই চিন্তা করছেন আচ্ছা আমি নাহয় ShareMe এপটা ইউজ করলাম কিন্তু যার কাছে ফাইল নিবো বা দিবো তার যদি এই এপটি ইন্সটল না থাকে তখন? এর সমাধানও আছে। এপটি ওপেন করুন। Menu > Invite > Bluetooth - দিয়ে দিন বন্ধুকে। মাত্র কয়েক mb। এরপর সে ইন্সটল করে ফেলবে তার মোবাইলেও। ব্যস এখন থেকে ফাইল আদান প্রদান হোক বিজ্ঞাপনহীন।
+
+### \----------
+
+## **Warning:**
+
+পদ্ধতি গুলো এপ্লাই করার পর ভুলেও দেখার চেষ্টা করবেন না যে অশ্লীলসাইটগুলো ব্লক হল কিনা। ইন্টারনেট জগতে বাজে সাইটের সংখ্যা কত তা আপনি ভাবতেও পারবেন না। আপনার কাজ হল পদ্ধতিগুলো এপ্লাই করা চেক করা না। DNS server এর কাজ ও নিজেরটা নিজেই করে নিবে। কিভাবে কাজ করবে আপনার না বুঝলেও চলবে।
+
+### \----------
+
+## **সর্বশেষ কয়েকটি কথাঃ**
+
+পদ্ধতিগুলো এপ্লাই করেই অনেকেই এর থেকে যথাযত উপকৃত হতে পারবে না যদি না সে নিজের উপর কন্ট্রল করা না শিখে। কারন,  আমরা যত সফটওয়্যারই ব্যবহার করি না কেন সবগুলোর কোন না কোন glitch আছে। সহজেই ফাকি দেয়া যায়। তাই এদের ভরসায় বসে থাকলে হবে না, নিজের মন থেকেই রেসিস্টেন্স নিয়ে আসতে হবে। যত যাই হোক আমি পর্ন দেখবো না চটি পড়বো না মাস্টারবেট করবো না- এইরকম দৃঢ়তা লাগবে ভাই। নিজের মন কে শাসন করতে হবে। যেভাবে ট্রেইনিং দেয়া হয় বিশেষ কাজে দক্ষ শ্রমিক গড়ে তুলতে সেভাবে নিজের মন কে, নফস কে ট্রেইন করতে হবে। তাকে বোঝাতে হবে এক পর্ন বা চটি বা হস্তমৈথুন কিভাবে মনকে কলুষিত করে, হতাশা বাড়িয়ে দেয়, কিছু না পাওয়ার তাড়না তীব্রভাবে বাড়ায় তোলে, ইবাদত নষ্ট করে, মানুষকে পশুতে পরিনত করে। এভাবে ট্রেইন আপ করুন নিজের মনকে।
+
+পর্ন ব্লক সফটওয়্যার অনেকটা সেফটি রিং গুলার মত, যেই রিং ধরে ধরে সাঁতার শেখা শুরু হয় বা এক্সপার্ট ড্রাইভার এর মত যে আপনাকে সতর্ক করবে গাড়ি চালানো শেখার সময়। এরা শর্ট টার্ম সাপোর্ট দিবে, কিন্তু দিনশেষে আপনাকেই হাল ধরতে হবে, নিজেকে ডেভেলপ করতে হবে। যতক্ষণ পর্যন্ত আপনার এই উপলব্ধি না আসবে যে এই পর্ন এইটা অশ্লীল, এটা অসভ্য, এটা জঘন্য, এটা ক্ষতিকারক, এর ক্ষতি ভয়াবহ, এটা চরিত্র ধ্বংসকারী ততক্ষন পর্যন্ত আপনি এই গোলক ধাঁধা থেকে বের হতে পারবেন না।
+
+> ### “তোমরা যা কিছু কর আল্লাহ তা পরিপুর্ণরূপে জানেন’’ \[সূরাঃ তাওবাহ, আয়াত ১৬\]
+> 
+> ### "নির্জন মুহূর্ত হলো আপনার আসল চরিত্র’’ - শাইখ আহমাদ মুসা জিবরীল
