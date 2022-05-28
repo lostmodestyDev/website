@@ -21,7 +21,10 @@ tags:
 
 ১৯৭৭ সালের জুন মাসে   বান্ডিকে Garfield County jail  থেকে  [Pitkin County Courthouse](https://en.wikipedia.org/wiki/Pitkin_County_Courthouse)   এ নিয়ে যাওয়া হয় একটা শুনানির জন্য।বান্ডিকে সুযোগ দেওয়া হয় আত্মপক্ষ সমর্থন করার এবং হ্যান্ডকাফ খুলে দেওয়া হয়। শুনানির বিরতির একপর্যায়ে  বান্ডি  লাইব্রেরীতে যাওয়ায় আবেদন করে তার নিজের কেস নিয়ে পড়াশোনা করার জন্য।লাইব্রেরীতে যেয়ে সে একটা বুকসেলফের পেছনের জানালা দিয়ে  দুই তলা থেকে লাফ দেয় মাটিতে। গোড়ালি মচকিয়ে গেলেও  কোর্টের সীমানার বাহিরে চলে যেতে  সক্ষম হয় সে। পুলিশের দেওয়া রোডব্লক এড়াতে এস্পেন পর্বতমালার মধ্যদিয়ে পালানোর চেষ্টা করে  ।কিন্তু পার্বত্য এলাকায় পথ হারিয়ে ফেলে বান্ডি।ছয়দিন পর বান্ডি যখন পুলিশের কাছে  স্যারেন্ডার করে তখন ক্ষুদপিপাসায়  আর ক্লান্তিতে তার অবস্থা ছিল খুবই কাহিল।
 
-<table data-blogger-escaped-style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td data-blogger-escaped-style="text-align: center;"><img class="alignnone  wp-image-2529" src="images/Roadblock-set-up-after-Ted-Bundys-escape-from-prison-300x203.jpg" alt="" width="604" height="409"></td></tr><tr><td data-blogger-escaped-style="text-align: center;">ফেরারী বান্ডিকে গ্রেফতার করার জন্য পুলিশের দেওয়া রোডব্লক</td></tr></tbody></table>
+
+<img class="alignnone wp-image-2529" src="images/Roadblock-set-up-after-Ted-Bundys-escape-from-prison-300x203.jpg" alt="" width="604" height="409"/>
+
+ফেরারী বান্ডিকে গ্রেফতার করার জন্য পুলিশের দেওয়া রোডব্লক
 
 জেলে ফিরে বান্ডি  আবার ফন্দি আঁটতে থাকে কিভাবে ফেরারী হওয়া যায় । প্রায় ৫০০ ডলারের বিনিময়ে সে একটা হ্যাকসো ব্লেড জোগাড় করে ফেলে । সন্ধ্যায় অন্য বন্দীরা যখন গোসল করতো সেই ফাঁকে সে জেলের সেলের সিলিঙ ফুটো করতে থাকে । ছয় মাসের অবিরাম  চেষ্টায়  এবং  ১৬ কেজি ওজন কমিয়ে প্রায় একফুট বর্গাকার গর্ত দিয়ে সিলিঙের ওপরে উঠতে সক্ষম হয়  বান্ডি । বেশ  কয়েকবার রিহারসেল দিয়ে নিজেকে প্রস্তুত করে নেয়  জেল থেকে পালানোর জন্য ।
 
@@ -29,7 +32,9 @@ tags:
 
 ১৭ ঘন্টা পর ডিসেম্বরের ৩১ তারিখে যখন জেল কর্মকর্তারা বান্ডির সেলের সিলিঙ্গে গর্তটা আবিষ্কার করেন  ততক্ষণে বান্ডি পগার পার হয়ে গেছে ।
 
-<table data-blogger-escaped-style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td data-blogger-escaped-style="text-align: center;"><img class="alignnone  wp-image-2530" src="images/bundy401-204x300.jpg" alt="" width="270" height="397"></td></tr><tr><td data-blogger-escaped-style="text-align: center;">এই ঘরের সিলিং ফুটো করেই জেল থেকে হাওয়া হয়ে গিয়েছিল বান্ডি</td></tr></tbody></table>
+<img class="alignnone wp-image-2530" src="images/bundy401-204x300.jpg" alt="" width="270" height="397"/>
+
+এই ঘরের সিলিং ফুটো করেই জেল থেকে হাওয়া হয়ে গিয়েছিল বান্ডি
 
 মৃত্যুর চৌকাঠেঃ
 

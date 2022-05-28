@@ -11,6 +11,8 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
     let searchContent = frontMatter.title + frontMatter.summary
     if (frontMatter.tags) {
       searchContent += frontMatter.tags.join(' ')
+    } else {
+      console.log(frontMatter)
     }
     return searchContent.toLowerCase().includes(searchValue.toLowerCase())
   })

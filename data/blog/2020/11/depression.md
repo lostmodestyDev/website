@@ -4,6 +4,8 @@ date: "2020-11-28"
 categories: 
   - "blog"
   - "sholo"
+tags: 
+  - "কিশোর-ম্যাগাজিন-ষোল"
 ---
 
 হতাশা ও মনোবিদ ভাইয়া! . মূলঃ ডা. তানভীর রহমান শ্রুতি লিখনঃ আব্দুস সালাম ⓒ [ষোলো](https://business.facebook.com/SholoOfficial/?__tn__=K-R&eid=ARBPdQqjRATq6kH2EtaDVgB2ypMCRLMzT5eedxCJsNwMgGHZcSKmBmPM8xte_WZFXbd4y1KmSwDvgY9L&fref=mentions&__xts__%5B0%5D=68.ARBgFY8Jd6rTMApV8_6MUNgz6ipfE2fbwPr-OtU9NSJ2PT1fq2Xe-RL2nmZD920FpyyRQIMzJoqLKkF5mN9CIwT6h537o0jH-J5M0tdsMZ9kN7XM0XYeh4GpW3XNiAHDTZLDT-jp5hmtZXWlHrSGxc-8R2-hy3Ix9eC8CyKL58QE6GttEcsXckR2bQKw0lIhrlKRO2hBjIGQtlbaWIkXpYvdpn7xreMDBzOQBSlMy0NEE_7HL4ov-Or-rkSSQ91LJHF9lqrKjbpwtKQbm-OK9DdmD224V7UQ_bvjZTjgnt1HctpAK9AL6tNOqxR-c70FJpb7DtY) ম্যাগাজিন, সংখ্যা ৩
