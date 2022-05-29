@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body { font-family: "Noto Sans Bengali", sans-serif; }
 
 .task-list-item::before {
   @apply hidden;

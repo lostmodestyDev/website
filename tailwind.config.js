@@ -25,10 +25,10 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+        sans: ['Noto Sans Bengali', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        primary: colors.teal,
+        primary: colors.yellow,
         gray: colors.neutral,
       },
       typography: (theme) => ({
