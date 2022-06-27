@@ -3,7 +3,7 @@ const siteMetadata = {
   author: 'লস্টমডেস্টি',
   headerTitle: 'লস্টমডেস্টি ব্লগ',
   description: 'Fly in the sky',
-  language: 'en-us',
+  language: 'bn-BD',
   theme: 'system', // system, dark or light
   siteUrl: 'https://lostmodesty.com',
   siteRepo: 'https://github.com/lostmodestyDev/website',
@@ -11,12 +11,10 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'lostmodesty@gmail.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
-  locale: 'en-US',
+  facebook: 'https://www.facebook.com/lostmodesty',
+  telegram: 'https://t.me/lostmodesty',
+  instagram: 'https://instagram.com/lostmodesty',
+  locale: 'bn-BD',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
