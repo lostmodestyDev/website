@@ -46,14 +46,11 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               </div>
             </div>
           </header>
-          <div
-            className="pb-8 divide-y divide-gray-200 dark:divide-gray-700 xl:grid xl:grid-cols-4 xl:gap-x-6 xl:divide-y-0"
-            style={{ gridTemplateRows: 'auto 1fr' }}
-          >
-            <dl className="pt-6 pb-10 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
+          <div className="max-w-2xl pb-8 mx-auto divide-y divide-gray-200 dark:divide-gray-700">
+            {/* <dl className="pt-6 pb-10">
               <dt className="sr-only">Authors</dt>
               <dd>
-                <ul className="flex justify-center space-x-8 sm:space-x-12 xl:block xl:space-x-0 xl:space-y-8">
+                <ul className="flex justify-center space-x-8 sm:space-x-12">
                   {authorDetails.map((author) => (
                     <li className="flex items-center space-x-2" key={author.name}>
                       {author.avatar && (
@@ -84,11 +81,14 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   ))}
                 </ul>
               </dd>
-            </dl>
+            </dl> */}
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div className="pt-10 pb-8 prose max-w-none dark:prose-dark">
-                <div className="relative h-96">
-                  <Image src={hero} alt="hero image" layout="fill" />
+                <div className="pt-10 pb-8 prose max-w-none dark:prose-dark">
+                  <div className="relative h-96">
+                    <Image src={hero} alt="hero image" layout="fill" />
+                  </div>
+                  {children}
                 </div>
                 {children}
               </div>
