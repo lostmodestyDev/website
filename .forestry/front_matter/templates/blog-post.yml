@@ -20,3 +20,5 @@ fields:
 - type: file
   name: hero
   label: hero
+pages:
+- data/blog/লস্ট-মডেস্টি-টিমের-অফিশিয়াল-ডিসক্লেইমার.md
