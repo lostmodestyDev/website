@@ -21,8 +21,8 @@ fields:
   name: hero
   label: hero
 pages:
+- data/blog/e-kemon-bokami.md
 - data/blog/kichu-pichutan-1.md
 - data/blog/kichu-pichutan-2.md
 - data/blog/kichu-pichutan-3.md
 - data/blog/shukhe-shantite-boshobash-1.md
-- data/blog/এ-কেমন-বোকামি.md
