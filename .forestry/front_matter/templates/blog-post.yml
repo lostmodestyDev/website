@@ -21,6 +21,7 @@ fields:
   name: hero
   label: hero
 pages:
+- data/blog/অতঃপর-তাহারা-সুখে-শান্তিতে-বসবাস-করতে-লাগল-১.md
 - data/blog/এ-কেমন-বোকামি.md
 - data/blog/কিছু-পিছুটান-১.md
 - data/blog/কিছু-পিছুটান-২.md
