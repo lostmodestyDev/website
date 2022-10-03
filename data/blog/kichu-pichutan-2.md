@@ -1,7 +1,7 @@
 ---
 title: কিছু পিছুটান ২
 description: ''
-date: 
+date: 2022-09-29T07:00:00Z
 redirect_from: []
 tags:
 - তোমার চোখে দেখেছিলাম আমার সর্বনাশ
