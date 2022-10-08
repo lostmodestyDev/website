@@ -83,11 +83,18 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               </dd>
             </dl> */}
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
-              <div className="pt-10 pb-8 prose max-w-none dark:prose-dark">
-                <div className="pt-10 pb-8 prose max-w-none dark:prose-dark">
-                  <div className="relative h-96">
-                    <Image src={hero} alt="hero image" layout="fill" />
-                  </div>
+              <div className="pt-10 pb-8 prose-lg md:prose-xl max-w-none dark:prose-dark">
+                <div className="pt-10 pb-8 prose-lg md:prose-xl max-w-none dark:prose-dark">
+                  <div
+                    className="-mx-12 md:block"
+                    style={{
+                      backgroundRepeat: 'no-repeat',
+                      backgroundImage: `url(${hero})`,
+                      backgroundPosition: 'center',
+                      backgroundSize: 'cover',
+                      height: '400px',
+                    }}
+                  />
                   {children}
                 </div>
               </div>
