@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/lostmodestyDev/website',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/ogbanner.png',
   email: 'lostmodesty@gmail.com',
   facebook: 'https://www.facebook.com/lostmodesty',
   telegram: 'https://t.me/lostmodesty',
