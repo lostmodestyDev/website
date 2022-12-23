@@ -21,6 +21,7 @@ fields:
   name: hero
   label: hero
 pages:
+- data/blog/copy.md
 - data/blog/e-kemon-bokami.md
 - data/blog/intro1.md
 - data/blog/kichu-pichutan-1.md
