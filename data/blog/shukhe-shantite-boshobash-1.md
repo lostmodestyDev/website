@@ -39,8 +39,49 @@ hero: "/uploads/307007075_3224607247754373_3862556233327046318_n.png"
 
 বাঙ্গালীর রোমান্টিকতার আদি ও অকৃত্রিম রোল মডেল মহানায়ক উত্তম কুমার থেকে শুরু করে প্রেমের নিয়ম কানুনকে নতুনভাবে সংজ্ঞায়িত করা হুমায়ূন আহমেদ, হূমায়ূন ফরিদী (বেচারা হুমায়ূন ফরিদী তো শোকে মদ খেতে খেতে মারাই গেল।), গুরু জেমস, শ্রাবন্তী, জয়া আহসান,এককালের হার্টথ্রব অপি করিম, তারিন, শখ ,সারিকা,বাঁধন , সাকিব খান-অপু বিশ্বাস ভালোবেসে বিয়ে করে সংসার টেকাতে পারেনি কেউই। এটা শুধু বাংলাদেশ ভারত বা উপমহাদেশের ঘটনা না। পাশ্চাত্যের হলিউড, মিউজিক ইন্ডাস্ট্রি থেকে শুরু করে প্রেম শেখানো সব ইন্ডাস্ট্রির একই অবস্থা। আরও বেশী ভয়ঙ্কর অবস্থা। আরও বেশী বিচ্ছেদ,হতাশা, আত্মহত্যা । \[৮,৯\]
 
-চলবে ইনশা আল্লাহ…  
-[#অতঃপর_তাহারা_সুখে_শান্তিতে_বসবাস_করিতে_থাকিল_](https://www.facebook.com/hashtag/%E0%A6%85%E0%A6%A4%E0%A6%83%E0%A6%AA%E0%A6%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BE_%E0%A6%B8%E0%A7%81%E0%A6%96%E0%A7%87_%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%A4%E0%A7%87_%E0%A6%AC%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B8_%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%A4%E0%A7%87_%E0%A6%A5%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B2_?__eep__=6&__tn__=*NK*F)? (প্রথম পর্ব)।
+চলবে ইনশা আল্লাহ…
+
+বই: আকাশের ওপারে আকাশ
+
+লেখক: লস্ট মডেস্টি
+
+সম্পাদক: আসিফ আদনান
+
+প্রকাশনী: Ilmhouse Publication
+
+নির্ধারিত মূল্য ২৮০ টাকা
+
+বাংলাবাজারে পাবেন- সত্যায়ন প্রকাশন এ।
+
+অনলাইন বুকশপে বইগুলো পাবেন ইনশা আল্লাহ। নিকটস্থ লাইব্রেরীতেও পাবার কথা
+
+১। ওয়াফিলাইফ - [shorturl.at/artZ4](http://shorturl.at/artZ4?fbclid=IwAR1FOFAwcR2ZuFdImy1G5DNUkJCizwnL9Qq0rNJTbX-_3bpxKsysnxH3YiA)
+
+২।Mashhadah Fragrance- [https://tinyurl.com/4wmudhur](https://tinyurl.com/4wmudhur "https://tinyurl.com/4wmudhur")
+
+৩। মুওয়াহহিদাহ বুকশপ - [shorturl.at/dDX56](http://shorturl.at/dDX56?fbclid=IwAR3GANHvzgJdRmlFmI7yyVpOqDJw_p4LTnVOCe0UE5Iptx2cWscsFnjnz2s)
+
+৪। আস সুন্নাহ বুকশপ - [shorturl.at/kuFIT](http://shorturl.at/kuFIT?fbclid=IwAR2314dWuVqvyxByT1Eu-XnnB1-9qLrj3ac1OO9f5kfVNZP-NoMGMvZHu2M)
+
+৫। আল ফুরক্বান শপ - [https://tinyurl.com/388uvyah](https://tinyurl.com/388uvyah "https://tinyurl.com/388uvyah")
+
+৬। আলাদা বই - [https://tinyurl.com/3sbkk2jb](https://tinyurl.com/3sbkk2jb "https://tinyurl.com/3sbkk2jb")
+
+৭। দুর্বারশপ - [shorturl.at/adhPX](https://l.facebook.com/l.php?u=http%3A%2F%2Fshorturl.at%2FadhPX%3Ffbclid%3DIwAR3bmsugAz0yPA8013c0itcOYOBObuDwsMSAh0FBIzt8uUNeu6IJpFc8LgM&h=AT0eWEN6zWVDfK9OKvkowdBzD5TMXQVdPM8IOAm6-kYGPn283QDpNZg5yi5hACXmSCxhYKvjlKQx5_GsR5tVZAxA9wSRph7iM8XBwvcelBLJv-w4vbXo5rJlawj4J7HPz8jE&__tn__=R%5d-R&c%5b0%5d=AT08M3ciVLPBsxqmsJeGMuvmcOP-dl2hjt62lkrL9tX1tdYnJmImcH9eKCIPzU_C4ONP0pKK-9DscZ7iECZsTxGoTjsi_uo6szhBBGkCiSYEzfLxzmUNhyejX7UaCJmU2bGLx5ZYW1ezoG4wHpU4y3ES4NOHXaGNGiCH7v6ZbXdeubr6mXlnX747-vJDDFFMqAk_5BTSBhPefnbprJFEOGy7QRgKVCHOQEO7r8k)
+
+৮। খিলাফাহ বুকশপ - [shorturl.at/uFQVW](https://l.facebook.com/l.php?u=http%3A%2F%2Fshorturl.at%2FuFQVW%3Ffbclid%3DIwAR0_N9IAEtt4COZRq-tyFScYBYkMFcC0E_mKaaQu1zVfUkweAywiNBsNxoU&h=AT01PG6awkQLEdZypk9X5anzsn5CzOcWAVvdZ7UmvOTk8dyHy3V4YiwPlBpr6tqnjVVDD1Wc23JwpXhE5xANpwlTnci7clZvIQrdiKpKhGVm3-IzIp5nNcsxlMIOftABDcF9&__tn__=R%5d-R&c%5b0%5d=AT08M3ciVLPBsxqmsJeGMuvmcOP-dl2hjt62lkrL9tX1tdYnJmImcH9eKCIPzU_C4ONP0pKK-9DscZ7iECZsTxGoTjsi_uo6szhBBGkCiSYEzfLxzmUNhyejX7UaCJmU2bGLx5ZYW1ezoG4wHpU4y3ES4NOHXaGNGiCH7v6ZbXdeubr6mXlnX747-vJDDFFMqAk_5BTSBhPefnbprJFEOGy7QRgKVCHOQEO7r8k)
+
+৯। উম্মাহ শপ - [https://tinyurl.com/ykj6brkf](https://tinyurl.com/ykj6brkf "https://tinyurl.com/ykj6brkf")
+
+১০। বইয়ের জাগরণ - [https://tinyurl.com/4dxe65pe](https://tinyurl.com/4dxe65pe "https://tinyurl.com/4dxe65pe")
+
+১১। মোল্লার বই ডট কম - [https://tinyurl.com/yckp9p77](https://tinyurl.com/yckp9p77 "https://tinyurl.com/yckp9p77")
+
+ভারতে- [https://web.facebook.com/sabirul.islam.1650](https://web.facebook.com/sabirul.islam.1650 "https://web.facebook.com/sabirul.islam.1650")
+
+[#LostModesty](https://www.facebook.com/hashtag/lostmodesty?__cft__%5b0%5d=AZU4AArz-HXzELbD102V21FGwhOjUvSOug781iHnXVesBB3PVDM-EGSMzD0J_f3ePs-kNsht_nzchzDkRNaPwFtFZJaAxwhFszGR9wpWZjaSVMeuNmE_SyBtf9oUlWUiWQyQ-Nn_AGghAoARsLgA5_d0BARRdBbhhxc8Mfm70xEaxA&__tn__=*NK-R)
+
+.
 
 রেফারেন্স:
 
