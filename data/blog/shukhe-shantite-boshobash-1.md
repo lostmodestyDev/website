@@ -5,7 +5,6 @@ date: 2022-09-15T18:00:00.000Z
 redirect_from: []
 tags:
   - 'লাভ ম্যারেজ বনাম এরেঞ্জড ম্যারেজ '
-  - ''
   - তোমার চোখে দেখেছিলাম আমার সর্বনাশ
   - প্রেমাতাল
 hero: /uploads/307007075_3224607247754373_3862556233327046318_n.png
@@ -58,27 +57,27 @@ _template: blog_post
 
 ১। ওয়াফিলাইফ - [shorturl.at/artZ4](http://shorturl.at/artZ4?fbclid=IwAR1FOFAwcR2ZuFdImy1G5DNUkJCizwnL9Qq0rNJTbX-_3bpxKsysnxH3YiA)
 
-২।Mashhadah Fragrance- [https://tinyurl.com/4wmudhur](https://tinyurl.com/4wmudhur "https://tinyurl.com/4wmudhur")
+২।Mashhadah Fragrance- [https://tinyurl.com/4wmudhur](https://tinyurl.com/4wmudhur 'https://tinyurl.com/4wmudhur')
 
 ৩। মুওয়াহহিদাহ বুকশপ - [shorturl.at/dDX56](http://shorturl.at/dDX56?fbclid=IwAR3GANHvzgJdRmlFmI7yyVpOqDJw_p4LTnVOCe0UE5Iptx2cWscsFnjnz2s)
 
 ৪। আস সুন্নাহ বুকশপ - [shorturl.at/kuFIT](http://shorturl.at/kuFIT?fbclid=IwAR2314dWuVqvyxByT1Eu-XnnB1-9qLrj3ac1OO9f5kfVNZP-NoMGMvZHu2M)
 
-৫। আল ফুরক্বান শপ - [https://tinyurl.com/388uvyah](https://tinyurl.com/388uvyah "https://tinyurl.com/388uvyah")
+৫। আল ফুরক্বান শপ - [https://tinyurl.com/388uvyah](https://tinyurl.com/388uvyah 'https://tinyurl.com/388uvyah')
 
-৬। আলাদা বই - [https://tinyurl.com/3sbkk2jb](https://tinyurl.com/3sbkk2jb "https://tinyurl.com/3sbkk2jb")
+৬। আলাদা বই - [https://tinyurl.com/3sbkk2jb](https://tinyurl.com/3sbkk2jb 'https://tinyurl.com/3sbkk2jb')
 
 ৭। দুর্বারশপ - [shorturl.at/adhPX](https://l.facebook.com/l.php?u=http%3A%2F%2Fshorturl.at%2FadhPX%3Ffbclid%3DIwAR3bmsugAz0yPA8013c0itcOYOBObuDwsMSAh0FBIzt8uUNeu6IJpFc8LgM&h=AT0eWEN6zWVDfK9OKvkowdBzD5TMXQVdPM8IOAm6-kYGPn283QDpNZg5yi5hACXmSCxhYKvjlKQx5_GsR5tVZAxA9wSRph7iM8XBwvcelBLJv-w4vbXo5rJlawj4J7HPz8jE&__tn__=R%5d-R&c%5b0%5d=AT08M3ciVLPBsxqmsJeGMuvmcOP-dl2hjt62lkrL9tX1tdYnJmImcH9eKCIPzU_C4ONP0pKK-9DscZ7iECZsTxGoTjsi_uo6szhBBGkCiSYEzfLxzmUNhyejX7UaCJmU2bGLx5ZYW1ezoG4wHpU4y3ES4NOHXaGNGiCH7v6ZbXdeubr6mXlnX747-vJDDFFMqAk_5BTSBhPefnbprJFEOGy7QRgKVCHOQEO7r8k)
 
 ৮। খিলাফাহ বুকশপ - [shorturl.at/uFQVW](https://l.facebook.com/l.php?u=http%3A%2F%2Fshorturl.at%2FuFQVW%3Ffbclid%3DIwAR0_N9IAEtt4COZRq-tyFScYBYkMFcC0E_mKaaQu1zVfUkweAywiNBsNxoU&h=AT01PG6awkQLEdZypk9X5anzsn5CzOcWAVvdZ7UmvOTk8dyHy3V4YiwPlBpr6tqnjVVDD1Wc23JwpXhE5xANpwlTnci7clZvIQrdiKpKhGVm3-IzIp5nNcsxlMIOftABDcF9&__tn__=R%5d-R&c%5b0%5d=AT08M3ciVLPBsxqmsJeGMuvmcOP-dl2hjt62lkrL9tX1tdYnJmImcH9eKCIPzU_C4ONP0pKK-9DscZ7iECZsTxGoTjsi_uo6szhBBGkCiSYEzfLxzmUNhyejX7UaCJmU2bGLx5ZYW1ezoG4wHpU4y3ES4NOHXaGNGiCH7v6ZbXdeubr6mXlnX747-vJDDFFMqAk_5BTSBhPefnbprJFEOGy7QRgKVCHOQEO7r8k)
 
-৯। উম্মাহ শপ - [https://tinyurl.com/ykj6brkf](https://tinyurl.com/ykj6brkf "https://tinyurl.com/ykj6brkf")
+৯। উম্মাহ শপ - [https://tinyurl.com/ykj6brkf](https://tinyurl.com/ykj6brkf 'https://tinyurl.com/ykj6brkf')
 
-১০। বইয়ের জাগরণ - [https://tinyurl.com/4dxe65pe](https://tinyurl.com/4dxe65pe "https://tinyurl.com/4dxe65pe")
+১০। বইয়ের জাগরণ - [https://tinyurl.com/4dxe65pe](https://tinyurl.com/4dxe65pe 'https://tinyurl.com/4dxe65pe')
 
-১১। মোল্লার বই ডট কম - [https://tinyurl.com/yckp9p77](https://tinyurl.com/yckp9p77 "https://tinyurl.com/yckp9p77")
+১১। মোল্লার বই ডট কম - [https://tinyurl.com/yckp9p77](https://tinyurl.com/yckp9p77 'https://tinyurl.com/yckp9p77')
 
-ভারতে- [https://web.facebook.com/sabirul.islam.1650](https://web.facebook.com/sabirul.islam.1650 "https://web.facebook.com/sabirul.islam.1650")
+ভারতে- [https://web.facebook.com/sabirul.islam.1650](https://web.facebook.com/sabirul.islam.1650 'https://web.facebook.com/sabirul.islam.1650')
 
 [#LostModesty](https://www.facebook.com/hashtag/lostmodesty?__cft__%5b0%5d=AZU4AArz-HXzELbD102V21FGwhOjUvSOug781iHnXVesBB3PVDM-EGSMzD0J_f3ePs-kNsht_nzchzDkRNaPwFtFZJaAxwhFszGR9wpWZjaSVMeuNmE_SyBtf9oUlWUiWQyQ-Nn_AGghAoARsLgA5_d0BARRdBbhhxc8Mfm70xEaxA&__tn__=*NK-R)
 
@@ -86,20 +85,20 @@ _template: blog_post
 
 রেফারেন্স:
 
-১\] যেভাবে শুরু তাহসান-মিথিলার প্রেমের গল্প- [https://tinyurl.com/3jz9kutk](https://tinyurl.com/3jz9kutk "https://tinyurl.com/3jz9kutk")
+১\] যেভাবে শুরু তাহসান-মিথিলার প্রেমের গল্প- [https://tinyurl.com/3jz9kutk](https://tinyurl.com/3jz9kutk 'https://tinyurl.com/3jz9kutk')
 
-\[২\] তারকা দম্পত্তিদের যত বিচ্ছেদ- [https://tinyurl.com/375sbst6](https://tinyurl.com/375sbst6 "https://tinyurl.com/375sbst6")
+\[২\] তারকা দম্পত্তিদের যত বিচ্ছেদ- [https://tinyurl.com/375sbst6](https://tinyurl.com/375sbst6 'https://tinyurl.com/375sbst6')
 
-\[৩\] What Modern Arranged Marriages Really Look Like-[https://tinyurl.com/4b3e4vtf](https://tinyurl.com/4b3e4vtf "https://tinyurl.com/4b3e4vtf")
+\[৩\] What Modern Arranged Marriages Really Look Like-[https://tinyurl.com/4b3e4vtf](https://tinyurl.com/4b3e4vtf 'https://tinyurl.com/4b3e4vtf')
 
-\[৪\] What's love got to do with it?- [https://tinyurl.com/5dxb6njd](https://tinyurl.com/5dxb6njd "https://tinyurl.com/5dxb6njd")
+\[৪\] What's love got to do with it?- [https://tinyurl.com/5dxb6njd](https://tinyurl.com/5dxb6njd 'https://tinyurl.com/5dxb6njd')
 
-\[৫\] Love which ends in marriage – is it haraam? - [https://tinyurl.com/mpwm7sz5](https://tinyurl.com/mpwm7sz5 "https://tinyurl.com/mpwm7sz5")
+\[৫\] Love which ends in marriage – is it haraam? - [https://tinyurl.com/mpwm7sz5](https://tinyurl.com/mpwm7sz5 'https://tinyurl.com/mpwm7sz5')
 
-\[৬\] Why is the divorce rate higher in love marriages than in arranged marriages?- [https://tinyurl.com/yc7mxk48](https://tinyurl.com/yc7mxk48 "https://tinyurl.com/yc7mxk48")
+\[৬\] Why is the divorce rate higher in love marriages than in arranged marriages?- [https://tinyurl.com/yc7mxk48](https://tinyurl.com/yc7mxk48 'https://tinyurl.com/yc7mxk48')
 
 \[৭\] লাভ ম্যারেজ , শায়খ আলী আলী তানতাবী রহিমাহুল্লাহ, বইঘর প্রকাশনী, পৃষ্ঠা,১৬
 
-\[৮\] তারকা দম্পত্তিদের যত বিচ্ছেদ- [https://tinyurl.com/375sbst6](https://tinyurl.com/375sbst6 "https://tinyurl.com/375sbst6")
+\[৮\] তারকা দম্পত্তিদের যত বিচ্ছেদ- [https://tinyurl.com/375sbst6](https://tinyurl.com/375sbst6 'https://tinyurl.com/375sbst6')
 
-\[৯\] আর্থিক অনটনে পড়েছিলেন উত্তম! তখন গৌরীদেবীর গয়নার বিল চুকিয়েছিলেন সুপ্রিয়াদেবী- [https://tinyurl.com/47f9pny8](https://tinyurl.com/47f9pny8 "https://tinyurl.com/47f9pny8")
+\[৯\] আর্থিক অনটনে পড়েছিলেন উত্তম! তখন গৌরীদেবীর গয়নার বিল চুকিয়েছিলেন সুপ্রিয়াদেবী- [https://tinyurl.com/47f9pny8](https://tinyurl.com/47f9pny8 'https://tinyurl.com/47f9pny8')
