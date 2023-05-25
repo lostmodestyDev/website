@@ -11,34 +11,21 @@ import siteMetadata from '@/data/siteMetadata'
 import Analytics from '@/components/analytics'
 import LayoutWrapper from '@/components/LayoutWrapper'
 import { ClientReload } from '@/components/ClientReload'
-import { TinaCMS, TinaProvider } from 'tinacms'
-import { useMemo } from 'react'
 
 const isDevelopment = process.env.NODE_ENV === 'development'
 const isSocket = process.env.SOCKET
 
 export default function App({ Component, pageProps }) {
-  const cms = useMemo(
-    () =>
-      new TinaCMS({
-        toolbar: pageProps.preview,
-        enabled: pageProps.preview,
-      }),
-    [pageProps]
-  )
-
   return (
-    <TinaProvider cms={cms}>
-      <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
-        <Head>
-          <meta content="width=device-width, initial-scale=1" name="viewport" />
-        </Head>
-        {isDevelopment && isSocket && <ClientReload />}
-        <Analytics />
-        <LayoutWrapper>
-          <Component {...pageProps} />
-        </LayoutWrapper>
-      </ThemeProvider>
-    </TinaProvider>
+    <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
+      <Head>
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+      </Head>
+      {isDevelopment && isSocket && <ClientReload />}
+      <Analytics />
+      <LayoutWrapper>
+        <Component {...pageProps} />
+      </LayoutWrapper>
+    </ThemeProvider>
   )
 }
