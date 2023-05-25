@@ -23,7 +23,8 @@ export default function App({ Component, pageProps }) {
       new TinaCMS({
         toolbar: pageProps.preview,
         enabled: pageProps.preview,
-      })
+      }),
+    [pageProps]
   )
 
   return (
