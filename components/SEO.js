@@ -28,7 +28,6 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
         rel="canonical"
         href={canonicalUrl ? canonicalUrl : `${siteMetadata.siteUrl}${router.asPath}`}
       />
-      <meta httpEquiv="Content-Security-Policy" content="default-src 'self'; style-src 'self';" />
     </Head>
   )
 }
