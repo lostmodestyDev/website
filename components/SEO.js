@@ -28,7 +28,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
         rel="canonical"
         href={canonicalUrl ? canonicalUrl : `${siteMetadata.siteUrl}${router.asPath}`}
       />
-      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" async></script>
     </Head>
   )
 }
