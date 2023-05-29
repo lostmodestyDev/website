@@ -5,11 +5,11 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' disqus.com;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' disqus.com unpkg.com identity.netlify.com;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src 'none';
-  connect-src *;
+  connect-src * blob: data: http: https:;
   font-src 'self';
   frame-src disqus.com
 `

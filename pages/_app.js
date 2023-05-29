@@ -20,10 +20,6 @@ export default function App({ Component, pageProps }) {
     <ThemeProvider attribute="class" defaultTheme={siteMetadata.theme}>
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
-        <meta
-          httpEquiv="Content-Security-Policy"
-          content="default-src * 'unsafe-eval' 'unsafe-inline' data: blob: http: https: ;"
-        />
       </Head>
       {isDevelopment && isSocket && <ClientReload />}
       <Analytics />
